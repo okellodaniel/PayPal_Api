@@ -1,0 +1,12 @@
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/bin/Debug/net5.0/APIWrapper.deps.json
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/bin/Debug/net5.0/APIWrapper.dll
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/bin/Debug/net5.0/ref/APIWrapper.dll
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/bin/Debug/net5.0/APIWrapper.pdb
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/obj/Debug/net5.0/APIWrapper.csproj.AssemblyReference.cache
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/obj/Debug/net5.0/APIWrapper.GeneratedMSBuildEditorConfig.editorconfig
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/obj/Debug/net5.0/APIWrapper.AssemblyInfoInputs.cache
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/obj/Debug/net5.0/APIWrapper.AssemblyInfo.cs
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/obj/Debug/net5.0/APIWrapper.csproj.CoreCompileInputs.cache
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/obj/Debug/net5.0/APIWrapper.dll
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/obj/Debug/net5.0/ref/APIWrapper.dll
+/home/dani/RiderProjects/PayPal_Api/APIWrapper/obj/Debug/net5.0/APIWrapper.pdb
